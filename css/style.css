@@ -162,7 +162,7 @@ padding: calc(4.4vw + 23.4px) 0 calc(5.3vw + 20px);
 
 .date {
 font-size: calc(12.6vw + 12.8px);
-font-family: 'Chava';
+font-family: 'TT Hoves';
 }
 
 .timeCard span{
@@ -175,7 +175,7 @@ section.page3 {
     padding-top: calc(11vw + 18.6px);
     margin-bottom:calc(11vw + 18.6px)
 }
-.page5 h2 {    
+.page3 h2 {    
     font-size: calc(2.7vw + 24.1px);
     font-weight: 500;
      
@@ -192,10 +192,10 @@ section.page3 {
     line-height: 140%;
     margin-right:auto;
 }
-.boxName {    
+h3 {    
     font-weight: 600;
 }
-.boxInfo {    
+p {    
     font-weight: 400;
     margin-top: calc(10px + (20 - 10) * ((100vw - 375px) / (1280 - 375)));  
 }
